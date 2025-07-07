@@ -1,7 +1,8 @@
 # Snake and Tic Tac Toe in C++  
 *Terminal-Based Games with Customizable Features*
+![Snake Screenshot](tictactoe/tictactoe_gameplay.png)
+![tictactoe Screenshot](snake/snake_gameplay.png	)
 
-https://snake/snake_gameplay.png	https://tictactoe/tictactoe_gameplay.png
 Snake: Grow by eating $, avoid # barriers	Tic Tac Toe: Play vs AI or a friend
 
 
@@ -35,13 +36,15 @@ A C++ implementation of **Snake** and **Tic Tac Toe** without OOP or pointers, d
 
 ## 🛠️ Code Structure  
 ```plaintext
-- main.cpp            # Entry point with game selection menu
-- snake/              # (Suggested: Move Snake logic here)
-  - movement.cpp      # Snake direction handling (goup(), godown(), etc.)
-  - setup.cpp         # Game initialization and printing
-- tictactoe/          # (Suggested: Move Tic Tac Toe logic here)
-  - ai.cpp           # Hard/easy AI logic (hardmode(), easymode())
-  - validation.cpp   # Win/draw checks (winnercheck(), check2win())
+- main.cpp            
+- snake/              
+  - snake.cpp      
+  - snake.h
+  - snake_gameplay.png      
+- tictactoe/          
+  - tictactoe.cpp          
+  - tictactoe.h
+  - tictactoe_gameplay.png
 ```
 
 ## 🚀 How to Compile & Run   
