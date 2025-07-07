@@ -1,14 +1,11 @@
-# Snake and Tic Tac Toe in C++  
+# 🎮 Snake and Tic Tac Toe in C++  
 *Terminal-Based Games with Customizable Features*
+
 ![Snake Screenshot](tictactoe/tictactoe_gameplay.png)
 ![tictactoe Screenshot](snake/snake_gameplay.png	)
 
-Snake: Grow by eating $, avoid # barriers	Tic Tac Toe: Play vs AI or a friend
-
-
 ---
 
-\
 
 ## 📝 Description  
 A C++ implementation of **Snake** and **Tic Tac Toe** without OOP or pointers, developed as a final project for an introductory programming course. Features:  
