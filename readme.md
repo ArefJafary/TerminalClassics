@@ -40,7 +40,3 @@ g++ main.cpp snake/snake.cpp tictactoe/tictactoe.cpp -o game
 ```
 
 
-## 📜 License  
-Unlicense (Public Domain)  
-
----
